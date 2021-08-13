@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Il2CppRuntime", "Il2CppRuntime\Il2CppRuntime.csproj", "{5891A02F-EA9A-4EFD-BE5A-184A15F0E8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5891A02F-EA9A-4EFD-BE5A-184A15F0E8B0}.Debug|x64.ActiveCfg = Debug|x64
+		{5891A02F-EA9A-4EFD-BE5A-184A15F0E8B0}.Debug|x64.Build.0 = Debug|x64
+		{5891A02F-EA9A-4EFD-BE5A-184A15F0E8B0}.Release|x64.ActiveCfg = Release|x64
+		{5891A02F-EA9A-4EFD-BE5A-184A15F0E8B0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA56BAB-F351-47D7-8E62-F315B1A732A5}
+	EndGlobalSection
+EndGlobal
