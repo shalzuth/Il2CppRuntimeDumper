@@ -6,14 +6,20 @@
  
 # Known issues
  Game crashes - hopefully only after it dumps the game
+ 
  Invalid DLLs - it's still not perfect, feel free to drop a PR
+ 
+ Can't compile - restore nuget packages with "dotnet restore"
 
 # Todo
  Add memory location scripts for inclusion into IDA (like il2cppdumper has)
+ 
  Fix DLL generation to be 1:1 with il2cppdumper
+ 
  Remove lots of bad debug code
 
 # Credits
  knah - AssemblyUnhollower (which this can be used with) & other help
+ 
  perfare / Jumboperson - for the original il2cppdumper
  
